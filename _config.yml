@@ -1,14 +1,29 @@
+name: TangAndPivot
+favicon: null
 layout_spectrum: 0.6825994
 typography_spectrum: 0.2980666
+title: 'Tang & Pivot'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.4526084
-  lightness: 0.4764937
-  brandStrength: 0.5187906
-  rhythmicContrast: 0.5243113
   brandColors:
     - '#ADD7F6'
     - '#87BFFF'
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-name: TangAndPivot
+  brandStrength: 0.5187906
+  lightness: 0.4764937
+  saturation: 0.4526084
+  rhythmicContrast: 0.5243113
+purpose: []
