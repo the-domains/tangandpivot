@@ -1,7 +1,7 @@
 name: TangAndPivot
 favicon: null
-layout_spectrum: 0.6825994
-typography_spectrum: 0.2980666
+layout_spectrum: 0.0942
+typography_spectrum: 0.50457
 title: 'Tang & Pivot'
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#2667FF'
     - '#3B28CC'
   brandStrength: 0.5187906
-  lightness: 0.4764937
-  saturation: 0.4526084
-  rhythmicContrast: 0.5243113
+  lightness: 0.625
+  saturation: 0.625
+  rhythmicContrast: 0.75
 purpose: []
